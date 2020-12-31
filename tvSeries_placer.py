@@ -1,14 +1,21 @@
+"""
+
+"""
+
+
 import tkinter as tk
 import tkinter.filedialog
 import os
 import re
 import shutil
 
-
-
 def undo(location,msg_text):
 	"""
-	THis function move all files from the folders to root directory.
+	This function move all files from the folders to root directory.
+
+	:param location(str): Folder location where tv series episode folders are located.
+	:param msg_text(StringVar) : notification frame message variable
+	:return: None
 	"""
 	msg_text.set("")
 	try:
@@ -35,8 +42,15 @@ def undo(location,msg_text):
 
 def placer(location,msg_text,season_flag, sub_flag,sub_folder):
 	"""
-	This function create folders for each episode and move relavant video file to relavent folder.
-	Also this can create and place subtitles in correct folder.
+	This function create folders for each episode and move relavant video file to relavent folder.Also this can create and place subtitles in correct folder.
+
+	:param location(str): Folder location where tv series episodes are located.
+	:param msg_text(str): notification frame message variable
+	:param season_flag(bool): folder contains multiple seasons indicator
+	:param sub_flag(bool): create a sub folder for each episode indicatior
+	:param sub_folder(string): sub folder name
+
+	:return: None;
 	"""
 	current_dir = os.getcwd()
 	msg_text.set("")
