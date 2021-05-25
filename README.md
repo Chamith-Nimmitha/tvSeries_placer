@@ -37,8 +37,8 @@ GET IDEA ABOUT GUI :
 HOW TO USE :
 
   	LINUX:
-    		1) goto tvSeries_placer.py location( or change cwd in teminal)
-    		2) open teminal and type python3 tvSeries_placer.py
+    	1) goto tvSeries_placer.py location( or change cwd in teminal)
+    	2) open teminal and type python3 tvSeries_placer.py
 
 	  Windows:
    		 1) Try double click and run.
