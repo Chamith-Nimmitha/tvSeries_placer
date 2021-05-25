@@ -37,15 +37,15 @@ GET IDEA ABOUT GUI :
 HOW TO USE :
 
   	LINUX:
-    	1) goto tvSeries_placer.py location( or change cwd in teminal)
-    	2) open teminal and type python3 tvSeries_placer.py
+    		1) goto tvSeries_placer.py location( or change cwd in teminal)
+    		2) open teminal and type python3 tvSeries_placer.py
 
-	  Windows:
-   		 1) Try double click and run.
-   		 2) That is not works, then open in python shell
-   		 3) That is not works then,
-    		    1) goto tvSeries_placer.py location( or change cwd in cmd)
-     		    2) Then open cmd and type python tvSeries_placer.py
+	WINDOWS:
+   		1) Try double click and run.
+   		2) That is not works, then open in python shell
+   		3) That is not works then,
+    			1) goto tvSeries_placer.py location( or change cwd in cmd)
+      			2) Then open cmd and type python tvSeries_placer.py
 
 
 License:
