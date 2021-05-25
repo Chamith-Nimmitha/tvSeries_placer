@@ -16,11 +16,11 @@ DESCRIPTION :
 
 REQUIREMENTS :
 
-  * above python 3.6
-      ref : https://www.youtube.com/watch?v=IDo_Gsv3KVk
-      if you don't have python 3.6 or above download latest version. https://www.python.org/downloads/
-  * tkinter
-      Tkinter can download with python installation.
+  	* above python 3.6
+  		ref : https://www.youtube.com/watch?v=IDo_Gsv3KVk
+ 	   if you don't have python 3.6 or above download latest version. https://www.python.org/downloads/
+	* tkinter
+  	 	   Tkinter can download with python installation.
 
 GET IDEA ABOUT GUI :
 
@@ -36,16 +36,16 @@ GET IDEA ABOUT GUI :
 
 HOW TO USE :
 
-  LINUX:
-      1) goto tvSeries_placer.py location( or change cwd in teminal)
-      2) open teminal and type python3 tvSeries_placer.py
+  	LINUX:
+    		  1) goto tvSeries_placer.py location( or change cwd in teminal)
+    		  2) open teminal and type python3 tvSeries_placer.py
 
-  Windows:
-      1) Try double click and run.
-      2) That is not works, then open in python shell
-      3) That is not works then,
-          1) goto tvSeries_placer.py location( or change cwd in cmd)
-          2) Then open cmd and type python tvSeries_placer.py
+	  Windows:
+   		   1) Try double click and run.
+   		   2) That is not works, then open in python shell
+   		   3) That is not works then,
+    		      1) goto tvSeries_placer.py location( or change cwd in cmd)
+     		     2) Then open cmd and type python tvSeries_placer.py
 
 
 License:
